@@ -1,0 +1,16 @@
+{
+  "name": "redux-widget",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:reactnativecn/redux-widget.git",
+  "license": "MIT",
+  "dependencies": {
+    "hoist-non-react-statics": "^3.0.1",
+    "immutable": "^3.8.2",
+    "redux-actions": "^2.6.1"
+  },
+  "peerDependencies": {
+    "react": ">16",
+    "react-redux": "*"
+  }
+}
